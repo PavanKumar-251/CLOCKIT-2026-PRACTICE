@@ -19,3 +19,9 @@
 ## Team Rule
 
 Every member should understand the work they contribute.
+## Daily Progress
+
+Day 1:
+- Created our practice repository.
+- Added README and team tasks.
+- Practised committing files.
